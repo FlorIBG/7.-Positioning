@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+}
+.c1{
+	background-color: #ee3e64;
+	left: 0px;
+	top: 0px;
+}
+.c2{
+	background-color:blue;
+	left: 0px;
+	bottom: 0px;
+}
+.c3{
+	background-color:#b7d84b;
+	right: 0px;
+	top: 0px;
+}
+.c4{
+	background-color:yellow;
+	bottom: 0px;
+	right: 0px;
+}
